@@ -1,4 +1,6 @@
-# Lang_assignment1
+# lang_assignment1
+
+github repo link: https://github.com/AndersRoen/lang_assignment1.git
 
 ## Language analytics assignment 1 description:
 Assignment 1 - Collocation tool
